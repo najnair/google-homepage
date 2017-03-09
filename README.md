@@ -1,0 +1,1 @@
+Create a google homepage clone from the Odin Project's [curriculum](http://www.theodinproject.com/web-development-101/html-css)
